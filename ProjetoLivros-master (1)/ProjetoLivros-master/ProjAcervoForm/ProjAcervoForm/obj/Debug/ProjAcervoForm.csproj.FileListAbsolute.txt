@@ -1,0 +1,10 @@
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\bin\Debug\ProjAcervoForm.exe.config
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\bin\Debug\ProjAcervoForm.exe
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\bin\Debug\ProjAcervoForm.pdb
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\obj\Debug\ProjAcervoForm.csprojAssemblyReference.cache
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\obj\Debug\ProjAcervoForm.Form1.resources
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\obj\Debug\ProjAcervoForm.Properties.Resources.resources
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\obj\Debug\ProjAcervoForm.csproj.GenerateResource.cache
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\obj\Debug\ProjAcervoForm.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\obj\Debug\ProjAcervoForm.exe
+C:\Users\Simone\Desktop\ADS\ed2\tp01\ProjAcervoForm\ProjAcervoForm\obj\Debug\ProjAcervoForm.pdb

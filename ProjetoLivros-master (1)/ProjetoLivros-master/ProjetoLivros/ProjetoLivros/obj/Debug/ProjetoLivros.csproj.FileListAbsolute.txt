@@ -1,0 +1,29 @@
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\EDI2 - Estrutura de Dados 2\Aula 05 - 21-03-2019\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 05 - 21-03-2019\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 05 - 21-03-2019\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.csprojResolveAssemblyReference.cache
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 05 - 21-03-2019\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 05 - 21-03-2019\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 05 - 21-03-2019\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 05 - 21-03-2019\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.pdb
+C:\Users\aluno\Desktop\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.exe
+C:\Users\aluno\Desktop\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.csprojResolveAssemblyReference.cache
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019 - Livros\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019 - Livros\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019 - Livros\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019 - Livros\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019 - Livros\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 28-03-2019 - Livros\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.csprojResolveAssemblyReference.cache
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 04-004-2019 - Livros\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe.config
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 04-004-2019 - Livros\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 04-004-2019 - Livros\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 04-004-2019 - Livros\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.exe
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 04-004-2019 - Livros\ProjetoLivros\ProjetoLivros\bin\Debug\ProjetoLivros.pdb
+C:\Users\josim\OneDrive\ADS - IFSP\5º Semestre\5ª. EDI2 - Estrutura de Dados 2\Aula 06 - 04-004-2019 - Livros\ProjetoLivros\ProjetoLivros\obj\Debug\ProjetoLivros.csprojResolveAssemblyReference.cache
